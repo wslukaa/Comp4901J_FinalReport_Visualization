@@ -3,7 +3,7 @@ Visualization dashboard for BreakOut Using a3C
 
 
 Download the data file from this link: https://drive.google.com/file/d/1QjAfrIH1QZi28R68WzGu4e0w8ICSElPp/view?usp=sharing
-Put it under static folder.
+"mkdir static" to make a static folder. Put data "model_rollouts_5.h5" under static folder.
 
 
 

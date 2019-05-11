@@ -15,8 +15,17 @@ It is a visualization dashboard on breakout by a3c learning process
 
 
 Installation:
+
 pip3 install https://download.pytorch.org/whl/cpu/torch-1.0.1.post2-cp37-cp37m-linux_x86_64.whl
 pip3 install torchvision
 pip install dash==0.42.0  
 pip install dash-daq==0.1.0
 pip install h5py==2.8.0
+
+Credits and Reference:
+
+https://github.com/greydanus/visualize_atari - generate saliency maps of agent playthroughs
+
+https://github.com/greydanus/baby-a3c -  a3c model training https://arxiv.org/abs/1711.00138
+
+https://arxiv.org/abs/1711.00138 - Sam Greydanus' paper Visualizing and Understanding Atari Agents
